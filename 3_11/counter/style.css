@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-size: 50px;
+    background-color: skyblue;
+}
+
+i {
+    color: aquamarine;
+}
+
+span{
+    color: wheat;
+}
+
+.green {
+    color: rgb(83, 124, 21);
+}
+
+.red {
+    color: red;
+}
